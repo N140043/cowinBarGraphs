@@ -1,0 +1,13 @@
+.bg-age {
+  min-height: 60vh;
+  background-color: #1c1c2b;
+  box-shadow: 0px 4px 16px 0px #94a3b8;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+.head {
+  color: #94a3b8;
+  font-size: 20px;
+  font-weight: 500;
+}
